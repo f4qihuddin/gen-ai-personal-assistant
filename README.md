@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-[1. Table of Contents](#table-of-contents)
-[2. About](#about)
-[3. How Does it Works?](#how-does-it-works)
+[1. Table of Contents](#table-of-contents)<br/>
+[2. About](#about)<br/>
+[3. How Does it Works?](#how-does-it-works)<br/>
 [4. Watch the Demo!](#watch-the-demo)
 
 ## About
