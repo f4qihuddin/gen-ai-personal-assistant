@@ -1,0 +1,170 @@
+{
+    "Speaker 1 (EN)": [
+        "v2/en_speaker_0",
+        "English",
+        "Male",
+        "None",
+        "../audio/speaker_1_en.mp3"
+    ],
+    "Speaker 2 (EN)": [
+        "v2/en_speaker_5",
+        "English",
+        "Male",
+        "Grainy",
+        "../audio/speaker_2_en.mp3"
+    ],
+    "Speaker 3 (EN)": [
+        "v2/en_speaker_9",
+        "English",
+        "Female",
+        "None",
+        "../audio/speaker_3_en.mp3"
+    ],
+    "Speaker 1 (ZH)": [
+        "v2/zh_speaker_0",
+        "Chinese",
+        "Male",
+        "None",
+        "../audio/speaker_1_zh.mp3"
+    ],
+    "Speaker 2 (ZH)": [
+        "v2/zh_speaker_1",
+        "Chinese",
+        "Male",
+        "None",
+        "../audio/speaker_2_zh.mp3"
+    ],
+    "Speaker 3 (ZH)": [
+        "v2/zh_speaker_6",
+        "Chinese",
+        "Female",
+        "Noise",
+        "../audio/speaker_3_zh.mp3"
+    ],
+    "Speaker 1 (FR)": [
+        "v2/fr_speaker_0",
+        "French",
+        "Male",
+        "None",
+        "../audio/speaker_1_fr.mp3"
+    ],
+    "Speaker 2 (FR)": [
+        "v2/fr_speaker_9",
+        "French",
+        "Male",
+        "Auditorium",
+        "../audio/speaker_2_fr.mp3"
+    ],
+    "Speaker 3 (FR)": [
+        "v2/fr_speaker_1",
+        "French",
+        "Female",
+        "None",
+        "../audio/speaker_3_fr.mp3"
+    ],
+    "Speaker 1 (DE)": [
+        "v2/de_speaker_0",
+        "German",
+        "Male",
+        "None",
+        "../audio/speaker_1_de.mp3"
+    ],
+    "Speaker 2 (DE)": [
+        "v2/de_speaker_1",
+        "German",
+        "Male",
+        "None",
+        "../audio/speaker_2_de.mp3"
+    ],
+    "Speaker 3 (DE)": [
+        "v2/de_speaker_3",
+        "German",
+        "Female",
+        "None",
+        "../audio/speaker_3_de.mp3"
+    ],
+    "Speaker 1 (HI)": [
+        "v2/hi_speaker_0",
+        "Hindi",
+        "Female",
+        "None",
+        "../audio/speaker_1_hi.mp3"
+    ],
+    "Speaker 2 (HI)": [
+        "v2/hi_speaker_1",
+        "Hindi",
+        "Female",
+        "Noise",
+        "../audio/speaker_2_hi.mp3"
+    ],
+    "Speaker 3 (HI)": [
+        "v2/hi_speaker_2",
+        "Hindi",
+        "Male",
+        "None",
+        "../audio/speaker_3_hi.mp3"
+    ],
+    "Speaker 1 (IT)": [
+        "v2/it_speaker_0",
+        "Italian",
+        "Male",
+        "None",
+        "../audio/speaker_1_it.mp3"
+    ],
+    "Speaker 2 (IT)": [
+        "v2/it_speaker_1",
+        "Italian",
+        "Male",
+        "None",
+        "../audio/speaker_2_it.mp3"
+    ],
+    "Speaker 3 (IT)": [
+        "v2/it_speaker_2",
+        "Italian",
+        "Female",
+        "None",
+        "../audio/speaker_3_it.mp3"
+    ],
+    "Speaker 1 (JA)": [
+        "v2/ja_speaker_0",
+        "Japanese",
+        "Female",
+        "None",
+        "../audio/speaker_1_ja.mp3"
+    ],
+    "Speaker 2 (JA)": [
+        "v2/ja_speaker_1",
+        "Japanese",
+        "Female",
+        "Noise",
+        "../audio/speaker_2_ja.mp3"
+    ],
+    "Speaker 3 (JA)": [
+        "v2/ja_speaker_2",
+        "Japanese",
+        "Male",
+        "None",
+        "../audio/speaker_3_ja.mp3"
+    ],
+    "Speaker 1 (KO)": [
+        "v2/ko_speaker_0",
+        "Korean",
+        "Female",
+        "None",
+        "../audio/speaker_1_ko.mp3"
+    ],
+    "Speaker 2 (KO)": [
+        "v2/ko_speaker_1",
+        "Korean",
+        "Male",
+        "None",
+        "../audio/speaker_2_ko.mp3"
+    ],
+    "Speaker 3 (KO)": [
+        "v2/ko_speaker_2",
+        "Korean",
+        "Male",
+        "None",
+        "../audio/speaker_3_ko.mp3"
+    ]
+}
