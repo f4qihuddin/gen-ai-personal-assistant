@@ -1,6 +1,6 @@
 # **Personal Assistant Chatbot Powered by RAG and AI Agents**
 
-![Project Overview](public\project-preview.png)
+![project overview](./public/project-preview.png)
 
 ## Table of Contents
 
@@ -19,15 +19,15 @@ The entire chatbot system is divided into multiple parts. First, there are the u
 
 ### Text-to-Text and Speech-to-Speech System
 
-![Text and speech flowchart](public\text_and_speech_flowchart.png)
+![text and speech system](./public/text_and_speech_flowchart.png)
 
 ### Retrieval Augmented Generation System
 
-![RAG flowchart](public\rag_flowchart.png)
+![project overview](./public/rag_flowchart.png)
 
 ### Agentic System
 
-![RAG flowchart](public\agent_flowchart.png)
+![project overview](./public/agent_flowchart.png)
 
 ## Watch the Demo!
 
